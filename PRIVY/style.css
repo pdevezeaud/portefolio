@@ -1,0 +1,209 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #202020;
+	width: 1280px;
+	padding:0px;
+	margin:0px;
+	height:2000px;
+}
+
+.couleur {
+	background-color: #2980b9;
+	height:6px;
+
+}
+
+.container {
+
+	width: 1200px;&
+	background-color: #ffffff;
+	margin:auto;
+			
+}
+
+.header 
+{
+
+	height:2100px&;
+	width:300px;
+	background-color: #2a2a2a;
+	text-align: center;
+	float: left;
+
+}
+
+.header h1 {
+	color: #ffffff;
+}
+
+.header p {
+	color:#736c6c;
+	text-align: center;
+}
+
+.header a {
+	color:#736c6c;
+	text-decoration-line: none;
+	display : flex;
+	align-items: center;
+	justify-content: center;
+	height: 86px;
+}
+
+.header a:hover
+{
+	background-color :#2980b9 ;
+	color : white;
+
+}
+.header ul li  {
+	color: #736c6c;
+	
+	list-style-type: none;
+	
+}
+
+.header ul {
+	padding: 0px;
+
+	
+}
+
+.header img {
+    min-width : 80px;
+	min-height : 80px;
+	border-radius: 100%;
+}
+
+.corps {
+
+	width: 900px;
+	height:2100px;
+	float: left;
+	background-color: white;
+	/*margin: auto;*/
+	text-align: center;
+}
+
+
+.date {
+	
+	color: black;
+	font-size: 15px;
+	margin-left:50px;
+	width:55px;
+	height:110px;
+	float: left;
+	border-right: 1px solid #A39F9F;
+	display:flex;
+	align-items: center;
+	opacity: 0.8;
+	font-weight: bold;
+
+}
+
+
+.corps hr {
+    margin-bottom : 20px;
+    margin-left:65px;
+	width: 600px;
+	height:2px;
+	border:1px #a39f9f ridge;
+	opacity: 0.4;
+
+}
+
+
+.corps h1 {
+	color: #333333;
+	font-size: 38px;
+	margin: 8px;
+	margin-top: 80px;	
+}
+
+.corps h3{
+	margin-bottom: 74px;
+	color: #a39f9f;
+	font-size: 15px;
+}
+
+.corps h4 {
+	color: #333333;
+	font-size: 15px;
+	padding-right: 349px;
+
+	
+}
+
+.corps p {
+	color: #a39f9f;
+	font-size: 12px;
+	margin-left:221px;
+	margin-bottom: 60px;
+	text-align: left;
+			
+}
+
+
+.corps p a {
+	text-decoration-line: none;
+}
+
+
+
+ .corps img {
+ 	max-width: 800px;
+	height: auto;
+}
+
+.first p {
+	text-align: center;
+	margin-bottom: 148px;
+}
+
+
+.paragraphe p {
+	text-align: left;
+	width:450px;
+}
+
+div.first p {
+	text-align: center;
+	width: 500px;
+}
+.first p {
+	line-height: 22px;
+	
+}
+
+.footer h3  {
+	text-align: center;
+    margin-top:90px;
+    margin-bottom: 5px;
+    line-height: 25px;
+    
+}
+
+#ligne_bas {
+	width : 640px;
+}
+
+#ligne_haut {
+
+	width: 800px;
+}
+
+.date2 {
+	font-weight: bold;
+	color:black;
+}
+
+ 
+
+ 
+	
+	
+
+
+
+

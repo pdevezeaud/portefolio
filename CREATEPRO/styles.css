@@ -1,0 +1,160 @@
+body
+{
+	-webkit-font-smoothing: antialiased;
+   	text-rendering: optimizelegibility;
+	background: url("images/bg.jpg") no-repeat fixed;
+	background-size: cover;
+	margin: 0; 
+	padding:0;
+	
+	width : 1400px;
+
+}
+
+#container
+{
+	width : 1020px;
+	margin : auto;
+	height : 1010px;
+	background-color: white;
+	
+}
+
+#header {
+height: 320px;
+background-color: black;
+
+}
+
+#header nav ul {
+	padding-top: 10px;
+	margin:0;
+	text-align: center;
+}
+
+
+#header nav ul li {
+display: inline-block;
+color:white;
+font-size: 14px;
+margin: 0 20 0 0px;
+
+}
+
+#header nav ul li a:hover {
+ color :#cfa205;
+}
+
+
+
+h1 {
+	color:#cfa205;
+	text-align: center;
+	vertical-align: middle;
+	font-size : 90px;
+	font-weight : 300;
+}
+
+h1, nav
+{
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+h2
+{
+	font-size : 18px;
+	font-weight : bold;
+	font-family: 'Bitter', serif;
+	
+}
+
+p
+{
+	color : #7a7a7a;
+	font-family: 'Bitter', serif;
+	font-size : 14px;
+}
+
+#titre ul li {
+	display:inline-block;
+	color:#cfa205;
+	font-size: 18px;
+	margin-right:10px;
+
+}
+
+#titre ul {
+	text-align: center;
+	margin-bottom: 0px;
+	vertical-align: bottom;
+}
+
+#sociaux {
+background-color:#e8e8e8;
+margin:0;
+height : 60px; 
+}
+
+#sociaux ul {
+	margin:0;
+	text-align: center;
+	padding-top : 15px;
+}
+
+#sociaux ul li {
+	display: inline-block;
+	margin-right: 10px;
+
+
+}
+
+#description {
+	margin: 0 auto;
+	height:90px;
+	width: 900px;
+	font-weight : bold;
+
+}
+
+#description p {
+	text-align: center;
+	margin:25px;
+	
+}
+
+hr
+{
+	width : 900px;
+	margin :0 auto;
+	border : 1px solid #7a7a7a;
+	opacity: 0.15;
+
+}
+
+#contenu
+{
+	width : 900px;
+	height : 675px;
+	margin : auto;
+}
+
+.paragraphe
+{
+	width : 260px;
+	display : inline-block;
+	margin-right: 56px;
+}
+
+.paragraphe3
+{
+	width : 260px;
+	display : inline-block;
+	
+}
+
+.ecriture
+{
+	height : 295px;
+	
+}

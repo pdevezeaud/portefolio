@@ -1,0 +1,12 @@
+{
+  "name": "FORM_SIMPLON",
+  "version": "1.0.0",
+  "description": "exercice grunt",
+  "main": "gruntfile.js",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

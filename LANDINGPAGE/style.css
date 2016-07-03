@@ -1,0 +1,110 @@
+.intro {
+    background-image: url("img/intro-bg.jpg");
+    height: 726px;
+    padding:268px;
+}
+
+.intro h1, p{ 
+    color: white;
+}
+
+.espacement {
+    margin-right:5px;
+    padding: 5px 0 5px 0;
+}
+
+
+
+hr {
+    display: block;
+    color: white;
+    width: 250px;
+}
+
+.button {
+    margin-right:15px;
+    border-radius: 5px;
+}
+
+.paragraphe{
+    margin-left:50px;
+    width: 200px;
+    color:black;
+    font-size: 10px;
+}
+
+.ipad{
+    padding-top:15px;
+    background-color:#f8f8f8;
+   
+}
+
+.ipad hr {
+    margin-top: 110px;
+}
+
+.ipad p {
+    margin-left:175px;
+}
+.ipad h5 {
+    margin-left:175px;
+    line-height: 18px;
+}
+
+.klebar {
+    margin-top:15px;
+}
+
+.klebar hr {
+    margin-top: 110px;
+}
+
+.klebar p{
+    margin-left:162px;
+}
+
+.klebar h5{
+    margin-left: 162px;
+}
+
+.google img {
+    margin-top:10px;
+    margin-bottom:28px;
+}
+
+.google {
+    padding-top:15px;
+    background-color:#f8f8f8;
+   
+}
+
+.google hr {
+    margin-top: 110px;
+}
+
+.google p {
+    margin-left:175px;
+}
+.google h5 {
+    margin-left:175px;
+    line-height: 18px;
+}
+
+
+.connect {
+  background-image: url("img/banner-bg.jpg");
+  height: 248px;
+  
+}
+
+.connect h4{
+    margin-top: 131px;
+    color: white;
+    
+}
+
+.connect a {
+    margin-top:131px;
+    background: white;
+    color:black;
+}
